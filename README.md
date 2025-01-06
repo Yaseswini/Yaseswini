@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a research scientist , bioinformatics & computational biology at the University of Virginia , Charlottesville
 - 🌱 I’m currently learning understanding machine learning and succesfully apply them in prognostication of patients diagnosed with Acute myeloid leukemia (AML)
 - 😄 Pronouns: she/her
-⚡ Fun fact: I also a part-time artist learning to paint mandalas! 
+- ⚡ Fun fact: I also a part-time artist learning to paint mandalas! 
 
 
 
