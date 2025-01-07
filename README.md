@@ -1,4 +1,4 @@
-## Hi there! I am  Yaseswini Neelamraju :wave:
+<h1 align="center">Hi there! I am  Yaseswini Neelamraju :wave:</h1>
 
 - 😄 Pronouns: she/her
 - :books: I earned my Doctorate of Philosophy (PhD) in biochemistry & molecular genetics from the University of Virginia , Charlottesville
