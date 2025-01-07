@@ -1,7 +1,7 @@
 ## Hi there! I am  Yaseswini Neelamraju :wave:
 
 - 😄 Pronouns: she/her
-- :books: I earned my doctorate of philosophy (PhD) in biochemistry & molecular genetics from the University of Virginia , Charlottesville
+- :books: I earned my Doctorate of Philosophy (PhD) in biochemistry & molecular genetics from the University of Virginia , Charlottesville
 - :office: 10 years of working experience in the field of bioinformatics 
 - 🔭 I’m currently working as a Research scientist , bioinformatics & computational biology at the University of Virginia , Charlottesville. 
 - 🌱 I’m currently learning about machine learning models and succesfully apply them in prognostication of patients diagnosed with Acute myeloid leukemia (AML).
