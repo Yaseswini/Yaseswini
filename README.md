@@ -10,9 +10,9 @@
 - :handshake: LinkedIn : [Click here](www.linkedin.com/in/yaseswini-neelamraju-phd-14b7ba29)
 - :sparkles: Fun fact: Iam also a part-time artist learning to paint mandalas :rosette: 
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaseswini&show_icons=true&theme=radical" alt="GitHub Stats" height="200",width="100">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseswini&layout=compact&theme=radical" alt="Top Languages" height="200">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaseswini&show_icons=true&theme=radical" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseswini&layout=compact&theme=radical" height="200" />
 </div>
 
 
