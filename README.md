@@ -8,7 +8,7 @@
 - :woman_technologist: I love coding in R , python and also learning new programming languages
 - :mortar_board: Publications : [Google Scholar](https://scholar.google.com/citations?user=wzrrprAAAAAJ&hl=en&oi=ao)
 - :handshake: LinkedIn : [Click here](www.linkedin.com/in/yaseswini-neelamraju-phd-14b7ba29)
-- ⚡ Fun fact: Iam also a part-time artist learning to paint mandalas! 
+- :sparkles: Fun fact: Iam also a part-time artist learning to paint mandalas :rosette: 
 
 
 
