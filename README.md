@@ -11,8 +11,16 @@
 - :sparkles: Fun fact: Iam also a part-time artist learning to paint mandalas :rosette: 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaseswini&show_icons=true&theme=transparent" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseswini&layout=compact&theme=transparent" height="200" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yaseswini&show_icons=true&custom_title="GitHub stats"&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true"
+    height="200"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseswini&layout=compact&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true"
+    height="200"
+    alt="Top Languages"
+  />
 </div>
 
 
