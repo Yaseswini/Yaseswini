@@ -12,7 +12,7 @@
 
 <div>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yaseswini&show_icons=true&custom_title="GitHub stats"&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Yaseswini&show_icons=true&custom_title=GitHub%20%stats&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true"
     height="200"
     alt="GitHub Stats"
   />
