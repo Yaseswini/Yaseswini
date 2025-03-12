@@ -3,7 +3,7 @@
 - 😄 Pronouns: she/her
 - :books: I earned my Doctorate of Philosophy (PhD) in biochemistry & molecular genetics from the University of Virginia , Charlottesville
 - :office: 10 years of working experience in the field of bioinformatics 
-- 🔭 I’m currently working as a Research scientist , bioinformatics & computational biology at the University of Virginia , Charlottesville. 
+- 🔭 I’m currently working as a Research scientist , Bioinformatics & computational biology at the University of Virginia , Charlottesville. 
 - 🌱 I’m currently learning about machine learning models and succesfully apply them in prognostication of patients diagnosed with Acute myeloid leukemia (AML).
 - :woman_technologist: I love coding in R , python and also learning new programming languages
 - :mortar_board: Publications : [Google Scholar](https://scholar.google.com/citations?user=wzrrprAAAAAJ&hl=en&oi=ao)
