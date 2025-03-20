@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about machine learning models and succesfully apply them in prognostication of patients diagnosed with Acute myeloid leukemia (AML).
 - :woman_technologist: I love coding in R , python and also learning new programming languages
 - :mortar_board: Publications : [Google Scholar](https://scholar.google.com/citations?user=wzrrprAAAAAJ&hl=en&oi=ao)
-- :handshake: LinkedIn : [Click here](www.linkedin.com/in/yaseswini-neelamraju-phd-14b7ba29)
+- :handshake: LinkedIn : [Click here](https://www.linkedin.com/in/yaseswinineelamraju/)
 - :sparkles: Fun fact: Iam also a part-time artist learning to paint mandalas :rosette: 
 
 <div align="center">
